@@ -5,4 +5,5 @@ numpy
 plotly
 scipy
 voila
-sklearn
+sklearn.preprocessing
+sklearn.decomposition
