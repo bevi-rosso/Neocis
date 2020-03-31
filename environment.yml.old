@@ -7,5 +7,4 @@ dependencies:
   - scipy
   - plotly
   - voila
-  - sklearn.preprocessing
-  - sklearn.decomposition
+  - sklearn
