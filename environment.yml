@@ -8,3 +8,7 @@ dependencies:
   - plotly
   - voila
   - sklearn
+  - jupyterlab
+  - requests
+  - ipywidgets
+  - functools
