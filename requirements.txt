@@ -5,5 +5,3 @@ numpy
 plotly
 voila
 sklearn
-ipywidgets
-functools
