@@ -3,6 +3,7 @@ requests
 pandas
 numpy
 plotly
-scipy
 voila
 sklearn
+ipywidgets
+functools
