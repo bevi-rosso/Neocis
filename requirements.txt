@@ -6,3 +6,6 @@ plotly
 voila
 sklearn
 scipy
+django
+gunicorn
+django-heroku
